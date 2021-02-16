@@ -5,16 +5,16 @@ This is LARVA, a mini-textual Alexa, a whatsappp bot.
 ## Features
 
 Just like Alexa, it has multiple virutal assistant features. Just on a tone of one text, it suffice your query. Some of the feature it has are -
- [1] Setting up reminders
- [2] Google anything you want to get most appropriate link of your query
- [3] Laugh by asking jokes
- [4] Get to know weather report of any city
- [5] Check your meetings
- [6] Increase your general knowledge by learning new facts anytime you want
- [7] Use it as calculator too
- [8] Ask LARVA for meaning of any word
- [9] Play on demand song and radio
- [10] Check movie rating, etc. 
+ 1. Setting up reminders
+ 2. Google anything you want to get most appropriate link of your query
+ 3. Laugh by asking jokes
+ 4. Get to know weather report of any city
+ 5. Check your meetings
+ 6. Increase your general knowledge by learning new facts anytime you want
+ 7. Use it as calculator too
+ 8. Ask LARVA for meaning of any word
+ 9. Play on demand song and radio
+ 10. Check movie rating, etc. 
  
 
 ## Getting Started
