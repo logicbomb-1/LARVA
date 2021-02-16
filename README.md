@@ -53,7 +53,7 @@ I am  using [SemVer](http://semver.org/) for versioning. For the versions availa
 
 * **Avinash Jain** - [logicbomb-1](https://twitter.com/logicbomb_1)
 
-See also the list of [contributors](https://github.com/logicbomb-1/M.E.F/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/logicbomb-1/LARVA/graphs/contributors) who participated in this project.
 
 ## License
 
