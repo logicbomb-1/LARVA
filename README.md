@@ -1,4 +1,5 @@
-# LARVA
+# LARVA ![alt text](https://github.com/logicbomb-1/LARVA/blob/main/larva.png?raw=true)
+
 
 This is LARVA, a mini-textual Alexa, a whatsappp bot. 
 
