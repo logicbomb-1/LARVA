@@ -63,4 +63,4 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ## Acknowledgments
 
-* Thanks to Mridu Bhutani for the initial prototype. 
+* Thanks to Mridu Bhatnagar for the initial prototype. 
