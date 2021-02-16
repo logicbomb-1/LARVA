@@ -1,50 +1,45 @@
 # LARVA
 
-This is M.E.F, a python project to detect exposed misconfigured enpoint in the given list of domains along with performing port scanning against critical ports. It scans the domains to get their subdomains using subfinder and port scans them and find misconfigured enpoints in all of the subdomains of the given domains list.
+This is LARVA, a mini-textual Alexa, a whatsappp bot. 
+
+## Features
+
+Just like Alexa, it has multiple virutal assistant features. Just on a tone of one text, it suffice your query. Some of the feature it has are -
+ [1] Setting up reminders
+ [2] Google anything you want to get most appropriate link of your query
+ [3] Laugh by asking jokes
+ [4] Get to know weather report of any city
+ [5] Check your meetings
+ [6] Increase your general knowledge by learning new facts anytime you want
+ [7] Use it as calculator too
+ [8] Ask LARVA for meaning of any word
+ [9] Play on demand song and radio
+ [10] Check movie rating, etc. 
+ 
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you your LARVA up and running on your local machine. 
 
 ### Prerequisites
 
-It needs the below packages to be in your system setup. Note:- You need to install subfinder explicitly. 
+It needs one ngrok endpoint to be put in Twillio and API keys for various services. Follow these link to register your whatsapp number to your whatsapp bot.
+https://www.twilio.com/blog/build-a-whatsapp-chatbot-with-python-flask-and-twilio
 
-```
-Subfinder
-certifi
-chardet
-idna
-python-nmap
-requests
-urllib3
-```
 
 ### Installing and Usage
 
 A step by step series of examples that tell you how to get the project running:
 
 ```
-pip3 install -r requirements.txt
-python3 endpoint_finder.py -p <target file>
+pip install -r requirements.txt
+python3 whatsapp_bot.py 
 ```
-
-where "target file" is the file containing all the domains.
-
-## Deployment
-
-To quickly run the docker image, run the below command: 
-```
-docker run -it --rm --name MEF -v /targets.txt:/targets.txt logicbomb1/docker-eef:latest python3 endpoint_finder.py -p targets.txt
-```
-
-where targets.txt is the file containing all the domains.
-
 
 ## Built With
 
 * [Python](https://www.python.org/) - The scritping language used
-* [Docker](https://www.docker.com/) - Used to dockerize
+* [Flask](https://flask.palletsprojects.com/en/1.1.x/) - Web application framework
 
 ## Contributing
 
